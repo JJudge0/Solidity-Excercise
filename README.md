@@ -6,6 +6,7 @@
 
 - Clone this repository to your local machine.
 - Install dependencies by running `npm install`.
+- Ensure Node Modules are installed correctly. 
 
 ## Usage
 
