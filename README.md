@@ -1,7 +1,6 @@
 # Solidity-Excercise-1
- Solidity Excercise based on smart contract and testing using etherhardhat.
+ Solidity Excercise based on smart contract and testing using hardhat.
 
-This project contains Solidity smart contracts for [brief description of what your contracts do].
 
 ## Setup
 
