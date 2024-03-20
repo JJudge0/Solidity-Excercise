@@ -10,7 +10,7 @@ const hardhat = require('hardhat');
 const ethers = hardhat.ethers;
 
 
-describe("StakingContract", function () {
+describe("Staking SmartContract", function () {
   let StakingExcercise;
   let stakingContract;
   let owner;
