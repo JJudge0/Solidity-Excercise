@@ -28,6 +28,8 @@ describe("Staking SmartContract", function () {
     await stakingToken.connect(userA).approve(stakingContract.address, ethers.constants.MaxUint256);
   });
 
+  
+
   it("should allow user to stake tokens", async function () {
     const amount = ethers.utils.parseEther("1000");
     await stakingContract.connect(userA).stake(amount);
