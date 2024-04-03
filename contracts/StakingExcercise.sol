@@ -32,6 +32,7 @@ contract StakingContract {
     event Withdrawn(address indexed user, uint256 amount);
     event RewardsClaimed(address indexed user, uint256 amount);
 
+
     constructor(address _stakingToken) {
         stakingToken = _stakingToken;
     }
